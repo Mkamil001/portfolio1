@@ -12,7 +12,7 @@
 				<!-- <a href="/">Experience</a> -->
 				<a href="/service">Services</a>
 				<a href="/">Portfilio</a>
-				<a href="/Footer">Contact Us</a>
+				<a href="/.">Contact Us</a>
 
 			</div>
 		</div>

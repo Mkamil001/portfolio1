@@ -60,7 +60,7 @@
 				alt="Android TV"
 			/>
 			<img
-				src="/images/facebook.png"
+				src="images/Facebook.png"
 				class="transform transition duration-300 hover:scale-110 cursor-pointer"
 				alt="Apple Watch"
 			/> 
